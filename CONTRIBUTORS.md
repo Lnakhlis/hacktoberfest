@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+### Name: Lyev Nakhlis
+ - Place: Boston,MA
+ - Bio: Man i really want that shirt also i do security stuff
+ - GitHub: [lnakhlis](https://github.com/lnakhlis)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
